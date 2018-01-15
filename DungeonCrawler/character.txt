@@ -1,0 +1,16 @@
+
+    Adventure's name:  
+    Class: fighter
+    Race: elf
+    Strength: 7
+    Constitution: 8
+    Dexterity: 13
+    Intelligence: 12
+    Wisdom: 9
+    Charisma: 12
+    Back Slot: crossbow bows
+    Belt Slot: crossbow bows
+    Right Hand: torch
+    Left Hand: key
+    Pack: torch, map, key, gems, food, green, lamp, emply, scroll, red
+    

@@ -33,7 +33,7 @@ def randomly_generate(options, count):
         
 # Ask for filename.
 def get_file_name():
-    filename = input("File name to generate the character({}): ".format(default_file_name))
+    filename = raw_input("File name to generate the character({}): ".format(default_file_name))
     if (filename == ""):
         filename = default_file_name
     return filename
@@ -42,8 +42,8 @@ def get_file_name():
 # Ask for character's lastname + firstname
 def get_char_names():
     print("Welcome to Dungeon Crawlers, what's your name?")
-    first_name = input("first name: ")
-    last_name = input("last name: ")
+    first_name = raw_input("first name: ")
+    last_name = raw_input("last name: ")
     return (first_name, last_name)
 
 def build_char():
